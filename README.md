@@ -6,3 +6,11 @@ I try to expand my knowledge every day by writing my own projects and learning f
 
 I have the skills to work in a team, a positive attitude to work and willingness to develop, openness to learning and new working methods.
 The first project made me realize that programming is my passion. In the future I would like to be a full-stack developer.
+
+:sunny: SKILLS :sunny:
+| PYTHON | DJANGO | DJANGO REST | 
+| GIT & GITHUB | DOCKER | LINUX |
+| SQLITE | POSTGRESQL | MYSQL |
+
+:sunny: LEARNING :sunny:
+| HTML | CSS | JAVASCRIPT | ANGULAR |
